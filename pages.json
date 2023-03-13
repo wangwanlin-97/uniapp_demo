@@ -12,8 +12,7 @@
 	}, {
 		"path": "pages/cart/cart",
 		"style": {
-			"navigationStyle": "custom",
-			"navigationBarTitleText": "购物车"
+			"navigationBarTitleText": "你是傻的吧"
 		}
 
 	}, {

@@ -1,6 +1,6 @@
 <template>
 	<view>
-		我是购物车
+		我是购物车de hlde
 	</view>
 </template>
 

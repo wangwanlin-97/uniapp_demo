@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.cate_container {
+  height: 100vh;
+  display: flex;
+}
+.cate_container .cate_left {
+  height: 100vh;
+  width: 100px;
+}
+.cate_container .cate_left .left-item {
+  height: 50px;
+  margin-top: 5px;
+  background-color: aquamarine;
+}
+.cate_container .cate_right {
+  height: 100vh;
+  flex: 1;
+}
+.cate_container .cate_right .right-item {
+  height: 100px;
+  margin-top: 10px;
+  background-color: aqua;
+}
+
