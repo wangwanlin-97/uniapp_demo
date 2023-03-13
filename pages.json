@@ -4,15 +4,41 @@
 	
 
 	}, {
-		"path": "pages/cate/cate"
+		"path": "pages/cate/cate",
+		"style": {
+			"navigationBarTitleText": "分类"
+		}
 
 	}, {
-		"path": "pages/cart/cart"
+		"path": "pages/cart/cart",
+		"style": {
+			"navigationStyle": "custom",
+			"navigationBarTitleText": "购物车"
+		}
 
 	}, {
 		"path": "pages/my/my"
 
-	}],
+	}   
+    ],
+	"subPackages": [
+		{
+			"root": "subpkg",
+			"pages": [
+				
+			{
+                    "path" : "item_detail/item_detail",
+                    "style" :                                                                                    
+                {
+                    "navigationBarTitleText": "",
+                    "enablePullDownRefresh": false
+                }
+                
+                }
+            ]
+			
+		}
+	],
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "初音未来专题",

@@ -1,6 +1,6 @@
 <template>
 	<view>
-		
+		我就是我
 	</view>
 </template>
 
